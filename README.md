@@ -1,1 +1,1 @@
-# servicenowgithubb
+gs.info('Hello, world!'); 
